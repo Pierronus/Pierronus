@@ -15,4 +15,4 @@ My name is **Pierre Sibert** and I'm a last year French High School pupil 🏢
 <br>![programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pierronus&hide=stars&theme=dark&show_icons=true&layout=compact)
 <br />
 <br />
-![My github stats](https://github-readme-stats.vercel.app/api?username=pierronus&hide=stars&theme=dark&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=pierronus&theme=dark&show_icons=true)
