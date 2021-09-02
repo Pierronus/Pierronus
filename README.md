@@ -2,9 +2,9 @@
 My name is **Pierre Sibert** and I'm a last year French High School pupil 🏢
 
 ### Projects and Contributions
-📍 I don't spend much time making and programming stuff, I only do it for fun.
+📍 I don't spend much time making and programming stuff, I only do it for fun.q
 
-  - [My french website](https://pierronus.com), My website. I am slowly (but surely) making progress on developping it.
+  - [My french website](https://pierronus.com), My website. I am slowly (but surely) making progress on developping it. ## Deprecated
   
   -  (I didn't start yet).
      [TI82 Programs](https://github.com/Pierronus/ti-calculator-programs), is a project where I post little programs I make for the TI82 calculator, using Pyhton.
