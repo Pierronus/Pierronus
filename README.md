@@ -3,7 +3,7 @@ My name is **Pierre Sibert**, 17 years old and I'm a last year French high schoo
 
 ### Projects and Contributions
 
-🌱Minecraft-related
+# 🌱Minecraft-related
 
 &emsp;📍 (June 2020 - June 2023)[Grand Craft Auto Plugin](https://github.com/Pierronus/minecraft-grandcraftauto) is part of my minecraft server. It reproduces Grand Theft Auto V in Minecraft.
 
