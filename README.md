@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is **Pierre Sibert**, 17 years old and I'm a last year French high school pupil at Lycée Montesquieu
 
-# Projects and Contributions
+## Projects and Contributions
 
 ### 🌱Minecraft-related
 
