@@ -11,7 +11,7 @@ My name is **Pierre Sibert**, 17 years old and I'm a last year French high schoo
 
 &emsp;📍 (June 2020 - June 2023) - [Lobby Plugin](https://github.com/Pierronus/minecraft-lobby) is part of my minecraft server. It has helped supporting the lobby.
 
-📍 (August 2022 - August 2023) - [EarthMC Shop Search](https://github.com/Pierronus/earthmc-shop-search) is a discord bot which I made for players in the EarthMC minecraft server. It helps people search items which they can buy or put on for auction / sale their own items!
+📍 (August 2022 - August 2023) - [EarthMC Shop Search](https://github.com/Pierronus/earthmc-shop-search) is a discord bot which I made for players in the EarthMC minecraft server. It helps people search items which they can buy or put up for auction / sale their own items!
 
 📍 (June 2023 - ) - [Smart Tablet](https://github.com/Pierronus/python-fun) a "smart tablet" I want to implement in real life (tablet which could control lights of my house, see temperature, pressure, humidity etc) and also display a live map of the weather (clouds, rain, temperature).
 
