@@ -5,11 +5,11 @@ My name is **Pierre Sibert**, 17 years old and I'm a last year French high schoo
 
 🌱Minecraft-related
 
-&nbsp;📍 (June 2020 - June 2023)[Grand Craft Auto Plugin](https://github.com/Pierronus/minecraft-grandcraftauto) is part of my minecraft server. It reproduces Grand Theft Auto V in Minecraft.
+&emsp;📍 (June 2020 - June 2023)[Grand Craft Auto Plugin](https://github.com/Pierronus/minecraft-grandcraftauto) is part of my minecraft server. It reproduces Grand Theft Auto V in Minecraft.
 
-&nbsp;📍 (June 2020 - June 2023)[PVP-BOX Plugin](https://github.com/Pierronus/minecraft-pvpbox) is part of my minecraft server. It's a player-vs-player plugin
+&emsp;📍 (June 2020 - June 2023)[PVP-BOX Plugin](https://github.com/Pierronus/minecraft-pvpbox) is part of my minecraft server. It's a player-vs-player plugin
 
-&nbsp;📍 (June 2020 - June 2023)[Lobby Plugin]([https://github.com/Pierronus/minecraft-pvp](https://github.com/Pierronus/minecraft-lobby)) is part of my minecraft server. It has helped supporting the lobby.
+&emsp;📍 (June 2020 - June 2023)[Lobby Plugin]([https://github.com/Pierronus/minecraft-pvp](https://github.com/Pierronus/minecraft-lobby)) is part of my minecraft server. It has helped supporting the lobby.
 
 📍 (August 2022 - August 2023)[EarthMC Shop Search](https://github.com/Pierronus/earthmc-shop-search) is a discord bot which I made for players in the EarthMC minecraft server. It helps people search items which they can buy or put on for auction / sale their own items!
 
