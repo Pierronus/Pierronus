@@ -13,7 +13,7 @@ My name is **Pierre Sibert**, 17 years old and I'm a last year French high schoo
 
 📍 (August 2022 - August 2023) - [EarthMC Shop Search](https://github.com/Pierronus/earthmc-shop-search) is a discord bot which I made for players in the EarthMC minecraft server. It helps people search items which they can buy or put up for auction / sale their own items!
 
-📍 (June 2023 - ) - [Smart Tablet](https://github.com/Pierronus/python-fun) is a "smart tablet" I want to implement in real life (tablet which could control lights of my house, see temperature, pressure, humidity etc) and also display a live map of the weather (clouds, rain, temperature).
+📍 (June 2023 - ) - [Smart Tablet](https://github.com/Pierronus/smart-tablet) is a "smart tablet" I want to implement in real life (tablet which could control lights of my house, see temperature, pressure, humidity etc) and also display a live map of the weather (clouds, rain, temperature).
 
 📍 [Python codes](https://github.com/Pierronus/python-fun) is a repository where i post little pieces of code I do when i'm bored
 
