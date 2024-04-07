@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is **Pierre Sibert**, 17 years old and I'm a last year French high school pupil at Lycée Montesquieu
+My name is **Pierre Sibert**, 18 years old and I'm a last year French high school pupil at Lycée Montesquieu
 
 ## Projects and Contributions
 
