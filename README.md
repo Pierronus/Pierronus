@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is **Pierre Sibert**, 18 years old and i'm a first year pupin in Lycée Descartes's prep classes
+My name is **Pierre Sibert**, 18 years old and i'm a first year pupil in Lycée Descartes's prep classes
 
 ## Projects and Contributions
 
